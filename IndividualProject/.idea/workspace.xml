@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86f43a8c-c18d-4334-99d6-27e5a8fe05ea" name="Changes" comment="first1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2P8t1BpCozblxejXg8OAl2B9Ice" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;/Users/smitabose/Desktop/task1/IndividualProject/src/test/java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG./Users/smitabose/Desktop/task1/IndividualProject/testng.xml">
+    <configuration name="HurtMePlentyTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="IndividualProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.taskB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.taskB" />
+      <option name="MAIN_CLASS_NAME" value="com.taskB.HurtMePlentyTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HurtMePlentyTest.setAddToEstimate" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="IndividualProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.taskB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.taskB" />
+      <option name="MAIN_CLASS_NAME" value="com.taskB.HurtMePlentyTest" />
+      <option name="METHOD_NAME" value="setAddToEstimate" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HurtMePlentyTest.takeScreenshotOnFailure" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="IndividualProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.taskB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.taskB" />
+      <option name="MAIN_CLASS_NAME" value="com.taskB.HurtMePlentyTest" />
+      <option name="METHOD_NAME" value="takeScreenshotOnFailure" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasteBinTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="IndividualProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.taskA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.taskA" />
+      <option name="MAIN_CLASS_NAME" value="com.taskA.PasteBinTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/smitabose/Desktop/task1/IndividualProject/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="IndividualProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/smitabose/Desktop/task1/IndividualProject/testng.xml" />
+        <item itemvalue="TestNG.HurtMePlentyTest" />
+        <item itemvalue="TestNG.PasteBinTest" />
+        <item itemvalue="TestNG.HurtMePlentyTest.takeScreenshotOnFailure" />
+        <item itemvalue="TestNG.HurtMePlentyTest.setAddToEstimate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86f43a8c-c18d-4334-99d6-27e5a8fe05ea" name="Changes" comment="" />
+      <created>1682850320408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682850320408</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1682963021891</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682963021891</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
+</project>
